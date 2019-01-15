@@ -1,2 +1,2 @@
-Git is version conrol
+Git is a distributed version conrol
 Git is free software
